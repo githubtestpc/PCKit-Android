@@ -12,6 +12,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.pcsfg.pckit.chatkit.view.ChatTextView
+//import com.pcsfg.pckit.chatkit.view.ChatTextView
 import com.pcsfg.pckit_android.ui.theme.PCKitAndroidTheme
 
 class MainActivity : ComponentActivity() {
@@ -27,6 +28,7 @@ class MainActivity : ComponentActivity() {
                     Column() {
                         Greeting("Android")
                         ChatTextView()
+//                        ChatTextView()
                     }
                 }
             }
