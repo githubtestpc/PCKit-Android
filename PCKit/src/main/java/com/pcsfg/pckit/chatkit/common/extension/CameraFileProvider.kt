@@ -32,7 +32,8 @@ class CameraFileProvider : FileProvider(
             )
 
             //Return the content path of the image file.
-            val authority = BuildConfig.LIBRARY_PACKAGE_NAME
+//            val authority =  context.packageName + BuildConfig.LIBRARY_PACKAGE_NAME
+            val authority = context.packageName + ".com.pcsfg.pckit"
             return getUriForFile(
                 context,
                 authority,
