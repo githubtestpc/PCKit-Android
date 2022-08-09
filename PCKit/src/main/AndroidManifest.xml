@@ -13,7 +13,7 @@
     <application>
         <provider
             android:name="com.pcsfg.pckit.chatkit.common.extension.CameraFileProvider"
-            android:authorities="com.pcsfg.pckit.chatkit"
+            android:authorities="${applicationId}.com.pcsfg.pckit.chatkit"
             android:grantUriPermissions="true"
             android:exported="false">
             <meta-data
