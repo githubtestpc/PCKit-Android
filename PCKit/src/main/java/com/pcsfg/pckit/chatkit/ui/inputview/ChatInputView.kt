@@ -1,4 +1,4 @@
-package com.pcsfg.chatkit.inputview
+package com.pcsfg.pckit.chatkit.ui.inputview
 
 import android.Manifest
 import android.content.pm.PackageManager

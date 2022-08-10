@@ -1,4 +1,4 @@
-package com.pcsfg.chatkit
+package com.pcsfg.pckit.chatkit.ui.chatview
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Row

@@ -17,7 +17,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.pcsfg.pckit.R
-import com.pcsfg.chatkit.inputview.FileBottomSheetContent
+import com.pcsfg.pckit.chatkit.ui.inputview.FileBottomSheetContent
 import com.pcsfg.pckit.chatkit.model.ChatRoomUser
 import com.pcsfg.pckit.chatkit.model.ChatViewBottomSheet
 import com.pcsfg.pckit.chatkit.ui.components.messagecells.ChatUserListAvatarView

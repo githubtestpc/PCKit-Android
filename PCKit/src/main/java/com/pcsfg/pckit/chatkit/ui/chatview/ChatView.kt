@@ -30,12 +30,11 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import coil.compose.AsyncImage
-import com.pcsfg.chatkit.ChatMessageCellContainer
+import com.pcsfg.pckit.chatkit.ui.inputview.ChatInputView
 import com.pcsfg.pckit.R
 import com.pcsfg.pckit.chatkit.common.extension.ChatRoomInfo
 import com.pcsfg.pckit.chatkit.common.view.ImageWebView
 import com.pcsfg.pckit.chatkit.common.view.VideoPlayerView
-import com.pcsfg.chatkit.inputview.ChatInputView
 import com.pcsfg.pckit.chatkit.model.ChatViewBottomSheet
 import com.pcsfg.pckit.chatkit.state.chatview.ChatViewEvent
 import com.pcsfg.pckit.chatkit.styles.messagecells.ChatMessageCellStyle
